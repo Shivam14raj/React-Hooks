@@ -1,0 +1,11 @@
+basic hooks:
+1. useState
+2. useEffect
+3. useContext
+
+Aditional Hooks 
+1. useReducer
+2. useCallback
+3. useMemo
+4. useRef
+5. useLayoutEffect 
