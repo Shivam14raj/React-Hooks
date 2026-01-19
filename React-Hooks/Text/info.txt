@@ -1,0 +1,17 @@
+basic hooks:
+1. useState -- done
+2. useEffect -- done
+3. useContext  
+
+Aditional Hooks 
+1. useReducer -- done 
+2. useCallback
+3. useMemo
+4. useRef   -- done 
+5. useLayoutEffect -- done 
+
+useState vs useReducer
+useEffect vs useLayoutEffect (almost identical syntax)
+
+useLayoutEffect = calls first even before useEffect 
+
